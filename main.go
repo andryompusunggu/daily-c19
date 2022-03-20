@@ -8,7 +8,7 @@ import (
 
 func main() {
 
-	url := "http://ubsupdates.com/covid.ubs/ajax/isi_survey_baru.php?id=mnx7zkIb&ya=0&tidak=13&ket=&ip=125.161.212.29"
+	url := "http://ubsupdates.com/covid.ubs/ajax/isi_survey_baru.php?id=O47wTYUv&ya=0&tidak=13&ket=&ip=180.247.81.233"
 	method := "POST"
 
 	client := &http.Client{}
